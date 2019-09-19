@@ -1,5 +1,3 @@
-console.clear();
-
 const elInput = document.querySelector('#inputpassword');
 const elDisplay = document.querySelector('#displaypassword');
 
